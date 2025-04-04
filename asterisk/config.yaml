@@ -21,6 +21,8 @@ map:
   # To allow the add-on migrate from home assistant config to add-on config
   - homeassistant_config:rw
 options:
+  ingress: true
+  ingress_port: 8089
   ami_password: null
   auto_add: true
   auto_add_secret: ""
