@@ -4,7 +4,7 @@
 
 ## 5.1.1
 
-- Enable HAOS ingress
+- Enable HAOS Ingress
 
 ## 5.1.0
 
