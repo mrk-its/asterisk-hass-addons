@@ -57,4 +57,3 @@ uart: true # chan-dongle requirement
 stdin: true
 ingress: true
 ingress_port: 8088
-ingress_entry: ws
